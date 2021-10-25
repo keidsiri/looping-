@@ -1,8 +1,9 @@
 # Practice: Form Input Types
 
 By _Kate Kiatsiri_
+  _Chase Stokes_
 
-_week:2 ,lesson page:51_
+_week:3 ,lesson page:14 ( Looping )_
 
 ## Technologies used
   1. HTML
