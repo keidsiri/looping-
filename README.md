@@ -1,7 +1,7 @@
 # Practice: Form Input Types
 
-By _Kate Kiatsiri_
-  _Chase Stokes_
+By **Kate Kiatsiri <br>
+   **Chase Stokes
 
 _week:3 ,lesson page:14 ( Looping )_
 
